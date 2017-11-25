@@ -29,6 +29,11 @@ Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.
 Getting Started
 ---------------
 
+```
+npm install yarn -g
+yarn add jquery
+```
+
 Documentation and Support
 -------------------------
 
